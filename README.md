@@ -5,4 +5,4 @@ This is a dashboard application for NSDQ stocks.
 * Used an API to fetch data of NSDQ stock prices
 * Used Plotly and Dash to build the dashboard
 
-![alt text](https://github.com/mindwanders1993/stock_dash_app/blob/assets/img.png?raw=true)
+![alt text](https://github.com/mindwanders1993/stock_dash_app/assets/img.png?raw=true)
